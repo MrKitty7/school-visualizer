@@ -1,0 +1,3 @@
+# School Visualizer
+
+### Visualizes all your school related subjects, like exams, your schedule, your grades...
